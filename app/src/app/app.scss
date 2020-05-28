@@ -1,0 +1,22 @@
+.pong {
+    position: relative;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.middleLine {
+    position: absolute;
+	height: 100%;
+	width: 1px;
+	background-color: white;
+}
+
+.playerLeft {
+    left: 0;
+}
+
+.playerRight{
+    right: 0;
+}

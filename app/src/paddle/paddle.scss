@@ -1,0 +1,18 @@
+.paddle {
+    width: 1vw;
+    height: 20vh;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.paddleInput {
+    width: 0;
+	border: none;
+	overflow: hidden;
+}
+
+.paddle:focus, input:focus {
+    outline: none;
+    background-color: green;
+    color: green;
+ }

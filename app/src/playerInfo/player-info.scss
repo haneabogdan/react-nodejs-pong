@@ -1,0 +1,21 @@
+.left, .right {
+    position: absolute;
+    margin: 20px;
+    color: white;
+  }
+  
+.left {
+  left: 0;
+}
+  
+.right {
+  right: 0;
+}
+
+p {
+  margin: 0;
+}
+  
+.currentUser {
+  color: red;
+}
